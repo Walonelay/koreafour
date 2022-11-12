@@ -1,6 +1,7 @@
 { 
 "cancle":true,
 "version":6,
+"adtype":2,
 "boo":true,
 "openads":"", 
 "banner":"ca-app-pub-3940256099942544/6300978111", 
